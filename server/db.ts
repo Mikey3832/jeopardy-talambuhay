@@ -6,8 +6,8 @@ const sortQuestions = (questions: { points: number; question: string; answer: st
 const pastQuestions: Question[] = sortQuestions([
     {
         points: 100,
-        question: 'What US state is the Land of Lincoln?',
-        answer: 'Illinois',
+        question: 'what state do i live in?',
+        answer: 'new york',
     },
     {
         points: 200,
@@ -24,8 +24,8 @@ const pastQuestions: Question[] = sortQuestions([
     },
     {
         points: 400,
-        question: 'Who wrote the Critique of Pure Reason?',
-        answer: 'Immanuel Kant',
+        question: 'what month was i born in?',
+        answer: 'june',
     }
 ]);
 
