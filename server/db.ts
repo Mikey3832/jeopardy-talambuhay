@@ -12,15 +12,15 @@ const pastQuestions: Question[] = sortQuestions([
     {
         points: 200,
         question:
-            'Which country\'s flag is this?',
+            'Which countries\' flags are these?',
         imgSrc: "https://cdn.britannica.com/34/4034-050-91EE1BCF/Flag-Myanmar.jpg",
-        answer: 'Myanmar',
+        answer: '',
     },
     {
         points: 300,
         question:
-            'What Ivy League school has the highest Native American enrollment (a whoppping 1%)?',
-        answer: 'Dartmouth',
+            'how many siblings do i have?',
+        answer: '2',
     },
     {
         points: 400,
